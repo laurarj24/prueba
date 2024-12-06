@@ -2,6 +2,6 @@
 
 ## ESTO ES UN SUBTITULO
 
-El archivo readme contiene info del repo
+El archivo readme contiene info basica del repositorio. 
 
 
