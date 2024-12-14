@@ -4,7 +4,7 @@
 
 # TAREA 3 ==> Hacer los diccionarios de preguntas y respuestas
 
-preguntas = {
+preguntas_faciles = {
     "¿Cuál es la capital de Canadá?": "Ottawa",
     "¿Qué planeta es conocido como el Planeta Rojo?": "Marte",
     "¿En qué año comenzó la Segunda Guerra Mundial?": "1939",
