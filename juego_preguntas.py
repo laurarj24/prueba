@@ -1,4 +1,10 @@
 
+# TAREA 1 ==> Importar librerias
+
+
+# TAREA 2 ==> Desarrollar funcion que ejecute el juego
+
+
 # TAREA 3 ==> Hacer los diccionarios de preguntas y respuestas
 
 preguntas_faciles = {
@@ -10,7 +16,3 @@ preguntas_faciles = {
     "¿Qué océano es el más grande del mundo?": "Océano Pacífico",
     "¿Quién escribió *Don Quijote de la Mancha*?": "Miguel de Cervantes",
 }
-
-# TAREA 1 ==> Importar librerias
-
-# TAREA 2 ==> Desarrollar funcion que ejecute el juego
